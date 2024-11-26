@@ -1,0 +1,40 @@
+/I-Tree Eco/Interactive Tree and Plot Map/Shapefiles
+/I-Tree Eco/Shapefiles
+/I-Tree Eco/*.ieco
+*.RData
+*.pdf
+*.mat
+/Lidar Simulation/lidarmodeling_202404
+/Lidar Simulation/Ian's code
+/Lidar Simulation/gort_model
+*.prj
+*.shp
+*.dbf
+*.cpg
+*.shx
+*.png
+*.rar
+*.log
+*.png
+*.xml
+*.kml
+*.csv
+*.html
+*.zip
+*.docx
+/par_modeling
+/small footprint/icesat_AB
+/small footprint/icesat/icesat
+/small footprint/figs
+/Tree Segmentation/data
+/Tree_segmentation/output
+*.ieco
+*.in
+*.out
+*.pkl
+/gee_app
+*.ppt
+*.pptx
+*.tif
+*.jpg
+*.las
